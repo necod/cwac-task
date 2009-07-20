@@ -17,6 +17,11 @@ project (e.g., drop it in `libs/` for Ant to pick it up)
 2. Reference `com.commonsware.cwac.task.AsyncTaskEx` instead
 of `android.os.AsyncTask`.
 
+Version
+-------
+This is version 0.3 of this module, meaning it hasn't failed
+me yet, but it hasn't been severly tested, either.
+
 Demo
 ----
 In the `com.commonsware.cwac.task.demo` package you will find
