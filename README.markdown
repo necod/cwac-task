@@ -40,5 +40,7 @@ file.
 Questions
 ---------
 If you have questions regarding the use of this code, please
-join and ask them on the cw-android Google Group. Be sure to
+join and ask them on the [cw-android Google Group][gg]. Be sure to
 indicate which CWAC module you have questions about.
+
+[gg]: http://groups.google.com/group/cw-android
