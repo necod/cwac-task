@@ -43,4 +43,12 @@ If you have questions regarding the use of this code, please
 join and ask them on the [cw-android Google Group][gg]. Be sure to
 indicate which CWAC module you have questions about.
 
+Who Made This?
+--------------
+<a href="http://commonsware.com">![CommonsWare](http://commonsware.com/images/logo.png)</a>
+
+<iframe src="http://stackoverflow.com/users/flair/115145.html?theme=default" marginwidth="0" marginheight="0" 
+        frameborder="0"  scrolling="no" width="210" height="60"></iframe>
+
+
 [gg]: http://groups.google.com/group/cw-android
