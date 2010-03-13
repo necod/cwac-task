@@ -47,8 +47,6 @@ Who Made This?
 --------------
 <a href="http://commonsware.com">![CommonsWare](http://commonsware.com/images/logo.png)</a>
 
-<iframe src="http://stackoverflow.com/users/flair/115145.html?theme=default" marginwidth="0" marginheight="0" 
-        frameborder="0"  scrolling="no" width="210" height="60"></iframe>
-
+<script src="http://stackoverflow.com/users/flair/115145.js?theme=default" type="text/javascript"></script>
 
 [gg]: http://groups.google.com/group/cw-android
